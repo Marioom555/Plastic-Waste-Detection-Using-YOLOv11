@@ -8,25 +8,14 @@ Plastic Trash Detection is an AI-powered solution designed to **identify and cla
 - **AI-Powered Classification** – Categorize waste for better recycling management.  
 - **Environmental Impact Analysis** – Assess pollution levels based on detection results.  
 - **Data Insights & Visualization** – Generate insights using interactive charts.  
-- **Email Reporting** – Send detection reports via email.  
 
-### Feature 1: Plastic Waste Detection #1  
-![Plastic Waste Detection #1]([https://github.com/user-attachments/assets/placeholder1](https://github.com/Marioom555/Plastic-Waste-Detection-Using-YOLOv11/blob/66cb14116ca96b6e93ece3647631156de5a9e1f2/photo_5947157789782689277_x%20(1).jpg))  
+### Feature 1: Plastic Waste  #1  
+![Plastic Waste #1](https://github.com/user-attachments/assets/789f18b9-109b-44c0-8aa8-b6c9bb8a6b91)  
 
 ### Feature 1: Plastic Waste Detection #2  
-![Plastic Waste Detection #2](https://github.com/user-attachments/assets/placeholder2)  
+![Plastic Waste Detection #2](https://github.com/user-attachments/assets/fccabb95-fa8a-4b5a-91ec-42e47200242b) 
 
-### Feature 2: Classification of Plastic Types  
-![Classification of Plastic Types](https://github.com/user-attachments/assets/placeholder3)  
-
-### Feature 3: Environmental Impact Analysis  
-![Environmental Impact Analysis](https://github.com/user-attachments/assets/placeholder4)  
-
-### Feature 4: Data Insights & Visualization  
-![Data Insights & Visualization](https://github.com/user-attachments/assets/placeholder5)  
-
-### Feature 5: Reporting & Email Integration  
-![Reporting & Email Integration](https://github.com/user-attachments/assets/placeholder6)  
+![Plastic Waste Detection #2](https://github.com/user-attachments/assets/f1c58676-4585-41c8-bd8e-85da4d0f2332)  
 
 ## 🏠 Tech Stack  
 ### 🔹 **Computer Vision & Detection Models**  
@@ -37,10 +26,7 @@ Plastic Trash Detection is an AI-powered solution designed to **identify and cla
 ### 🔹 **Data Processing & Analysis**  
 - **Pandas & NumPy** – For data manipulation and preprocessing.  
 - **Matplotlib & Seaborn** – For generating visualization insights.  
-
-### 🔹 **Frontend & Deployment**  
-- **Streamlit** – Interactive web application for detection.  
-- **Flask/FastAPI** – Backend for model inference and API handling.  
+.  
 
 ## 🛠️ Setup & Installation  
 1. Clone this repository:  
@@ -59,23 +45,5 @@ Plastic Trash Detection is an AI-powered solution designed to **identify and cla
 4. Install requirements:  
     ```bash  
     pip install -r requirements.txt  
-    ```  
-5. Run Streamlit App:  
-    ```bash  
-    streamlit run app.py  
-    ```  
-    
-## 🎓 Team Members  
-  - [Your Name]  
-  - [Team Member 2]  
-  - [Team Member 3]  
-  - [Team Member 4]  
-  - [Team Member 5]  
-  - [Team Member 6]  
-    
-## 🙌 Acknowledgments  
-Special thanks to [Mentor's Name] for guidance and support throughout this project.  
-
-## 💡 Contributions & Feedback  
-We’d love to hear your thoughts! Feel free to open issues, submit PRs, or reach out.
+    ```   
 
